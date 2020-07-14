@@ -1,0 +1,23 @@
+PODS:
+  - AliyunOSSiOS (2.10.8)
+  - ZXServer (0.1.0):
+    - AliyunOSSiOS (= 2.10.8)
+
+DEPENDENCIES:
+  - ZXServer (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AliyunOSSiOS
+
+EXTERNAL SOURCES:
+  ZXServer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: 8db92936545593b9e5c66d680ef2ac0738946651
+  ZXServer: 227610fc7c2919f58193102c59e37f51bb05aa39
+
+PODFILE CHECKSUM: a3263fe49a391bbb3f5228ecb57f7511743d41b1
+
+COCOAPODS: 1.9.3

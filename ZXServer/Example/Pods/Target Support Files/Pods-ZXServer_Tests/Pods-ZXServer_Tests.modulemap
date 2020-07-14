@@ -1,0 +1,6 @@
+framework module Pods_ZXServer_Tests {
+  umbrella header "Pods-ZXServer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
